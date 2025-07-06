@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Logs
+*.log
+
+# Ignore Tableau extract files (if any)
+*.hyper
+*.tde
